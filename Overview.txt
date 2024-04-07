@@ -1,0 +1,7 @@
+#I was bored so I tried making a keylogger.
+#Attempting to follow this guide: https://thepythoncode.com/article/write-a-keylogger-python
+#From there you need to configure the gmail API and an Oauth Credential: https://thepythoncode.com/article/use-gmail-api-in-python
+#Once you've done that you authenticate the keylogger with credentials.json
+#It can take a while for the cloud instance of your application to start working
+#You can change the directory local logs are saved to, for example an external medium.
+#there's a quickstart.py document to validate your authentication mechanism
